@@ -1,4 +1,5 @@
 # project-work
+sorting visualizer
 
 ## Table of contents:
 
