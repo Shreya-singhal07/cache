@@ -12,6 +12,7 @@ sorting visualizer
 
 ## Features
 
-- [x] each
-- [x] max
-
+- [x] HTML 
+- [x] CSS
+- [x] JavaScript
+- [x] Sorting Algorithms
