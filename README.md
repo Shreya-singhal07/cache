@@ -1,5 +1,5 @@
 # project-work
-sorting visualizer
+Demonstrating caching algorithms
 
 ## Table of contents:
 
@@ -7,8 +7,9 @@ sorting visualizer
 * [Features](#Features)
 
 
-## Why
-
+## Why (requirment collections, designing, coding, unit testing)
+- [x] learning software development life cycle
+- [x] learning how caching algorithm works
 
 ## Features
 
