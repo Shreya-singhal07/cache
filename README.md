@@ -18,6 +18,9 @@ learning how caching algorithm works
 
 ## Features
 
-- [x] HTML 
-- [x] CSS
+
+## work done
+
+- [x] watch videos
+- [x] ask for requirements
 
