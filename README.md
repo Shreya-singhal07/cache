@@ -18,6 +18,7 @@ learning how caching algorithm works
 
 ## Features
 
+eviction policy : alogirthm which determines which element is removed incase my capacity of the cache is exceeded.
 
 ## work done
 
