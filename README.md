@@ -27,6 +27,6 @@ learning how caching algorithm works
 
 # ** DAY 2**
 
-added Base Class CACHE
-added Derived Class MinimumKeyRemovePolicyCache
-added Derived Class MaximumKeyRemovePolicyCache
+- [x] added Base Class CACHE
+- [x] added Derived Class MinimumKeyRemovePolicyCache
+- [x] added Derived Class MaximumKeyRemovePolicyCache
