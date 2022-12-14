@@ -14,12 +14,12 @@ class Cache
 };
 
 
-class RandomPolicyCache: public Cache
+class MinimumKeyRemovePolicyCache: public Cache
 {
 	public:
 		map<int, int> mp;
 		
-	RandomPolicyCache(int _capacity)
+	MinimumKeyRemovePolicyCache(int _capacity)
 	{
 		capacity = _capacity; 
 		mp.clear();
@@ -65,9 +65,9 @@ class RandomPolicyCache: public Cache
 	
 	
 };
-int main() 
-{
-	RandomPolicyCache r = RandomPolicyCache(2);
+int main() {
+	
+	MinimumKeyRemovePolicyCache r = MinimumKeyRemovePolicyCache(2);
 	cout<< r.get(1) << endl;
 	r.put(-3, 5);
 	r.put(1, 4);
