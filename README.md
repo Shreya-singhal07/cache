@@ -27,6 +27,8 @@ eviction policy : algorithm which determines which element is removed incase my 
 
 ##DAY 1
 
-<img width="526" alt="Screenshot 2022-12-14 at 12 02 51 AM" src="https://user-images.githubusercontent.com/69424250/207416544-ab923e23-4c7c-4054-9f3a-6994037da42d.png">
+<img width="351" alt="image" src="https://user-images.githubusercontent.com/69424250/207519263-f89dac34-8764-4761-ba81-e8b5438cb7e8.png">
+<img width="243" alt="image" src="https://user-images.githubusercontent.com/69424250/207519329-18b74796-c43f-43a7-a5bb-10d47286f3ec.png">
+
 
 <img width="1076" alt="image" src="https://user-images.githubusercontent.com/69424250/207417486-0ec1490b-b452-4851-8607-663052e0bab3.png">
