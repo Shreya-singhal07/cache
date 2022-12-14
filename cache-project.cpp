@@ -5,30 +5,28 @@ class Cache
 {
 	public:
 		int capacity;
-		int size;
+		//int size;
 		
-		virtual int evict_key_and_return(){};
+		virtual int evict_key_and_return(){}; //virtual [keyword] : compulsory for derived classes to implement
 		virtual int get(int key){};
 		virtual void put(int key, int value){};
 
 };
 
-
 class MinimumKeyRemovePolicyCache: public Cache
 {
 	public:
-		map<int, int> mp;
-		
+		map<int, int> mp; //key,value
+	
 	MinimumKeyRemovePolicyCache(int _capacity)
 	{
 		capacity = _capacity; 
 		mp.clear();
 	}
-		
-		
+	
 	int evict_key_and_return()
 	{
-		int key = mp.begin()->first;
+		int key = mp.begin()->first; //iterator for key of map mp
 		mp.erase(mp.begin()->first);
 		// cout << "evicted is" << key << endl;
 		return key;
@@ -43,22 +41,20 @@ class MinimumKeyRemovePolicyCache: public Cache
 	
 	void put(int key, int value)
 	{
-		
-		if(mp.size() < capacity)
+		if(mp.find(key) != mp.end())
 		{
 			mp[key] = value;
+			return;
+		}
+
+		if(mp.size() < capacity)
+		{
+			mp[key] = value; //if key,value exists -> update key,new_value
 		}
 		else 
 		{ 
-			if(mp.find(key) != mp.end())
-			{
-				mp[key] = value;
-			}
-			else
-			{
 				evict_key_and_return();
 				mp[key] = value;
-			}
 		}
 
 	}
