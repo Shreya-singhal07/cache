@@ -12,7 +12,7 @@ learning how caching algorithm works
 
 ## Features
 
-**eviction policy**: algorithm which determines which element is removed incase my capacity of the cache is exceeded.
+**eviction policy** : algorithm which determines which element is removed incase my capacity of the cache is exceeded.
 
 ## work done
 
