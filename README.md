@@ -33,8 +33,8 @@ learning how caching algorithm works
 
 ## DAY 3
 
-brute force - LRU Cache
-TC: **O(capacity)**
-Data Structure : VECTOR
+> brute force - LRU Cache
+> TC: **O(capacity)**
+> Data Structure : VECTOR
 
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/69424250/208149079-fdf9c0a9-8fa3-4651-a67c-2bbcbc28636d.png">
