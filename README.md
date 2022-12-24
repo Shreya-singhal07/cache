@@ -40,3 +40,10 @@ Demonstrating caching algorithms
 > Data Structure : VECTOR
 
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/69424250/208149079-fdf9c0a9-8fa3-4651-a67c-2bbcbc28636d.png">
+
+## DAY 4
+
+**example:**
+<img width="734" alt="Screenshot 2022-12-24 at 11 32 16 PM" src="https://user-images.githubusercontent.com/69424250/209446959-fea1952a-dcba-46bc-8141-c8a967e2da59.png">
+
+
