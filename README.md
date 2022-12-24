@@ -3,13 +3,14 @@ Demonstrating caching algorithms
 
 ## Why
 
-**learning software development life cycle**
+<br> **learning software development life cycle** </br>
   > requirement collections
   > designing
   > coding
   > unit testing
-> **learning how caching algorithm works**
-> **learning how to write modular code**
+  
+<br> **learning how caching algorithm works** </br>
+<br> **learning how to write modular code** </br>
 
 ## Features
 
