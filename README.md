@@ -4,9 +4,9 @@ Demonstrating caching algorithms
 ## Why
 
 <br> **learning software development life cycle** </br>
-  > requirement collections
-  > designing
-  > coding
+  > requirement collections, 
+  > designing, 
+  > coding, 
   > unit testing
   
 <br> **learning how caching algorithm works** </br>
