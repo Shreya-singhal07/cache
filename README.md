@@ -44,7 +44,7 @@ Demonstrating caching algorithms
 ## DAY 4
 
 **example:**
-<img width="734" alt="Screenshot 2022-12-24 at 11 32 16 PM" src="https://user-images.githubusercontent.com/69424250/209446959-fea1952a-dcba-46bc-8141-c8a967e2da59.png">
+<img width="600" alt="Screenshot 2022-12-24 at 11 32 16 PM" src="https://user-images.githubusercontent.com/69424250/209446959-fea1952a-dcba-46bc-8141-c8a967e2da59.png">
 
 
 ## DAY 5
@@ -52,14 +52,13 @@ Demonstrating caching algorithms
 
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/69424250/209698938-1145600a-2925-4767-a936-88e9c7d321b4.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/69424250/209696239-e9a42dd2-d2cc-43a2-899e-f30201497027.png">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/69424250/209711709-5a010097-0e91-4ad0-8892-383239fab24e.png">
-<img width="635" alt="image" src="https://user-images.githubusercontent.com/69424250/209711619-54c6929b-7010-4e9c-9023-c2a2216e966b.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/69424250/209711709-5a010097-0e91-4ad0-8892-383239fab24e.png"> <img width="490" alt="image" src="https://user-images.githubusercontent.com/69424250/209711619-54c6929b-7010-4e9c-9023-c2a2216e966b.png">
 
 
 ## DAY 6
 compiling and running rest cases :)
 
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/69424250/209710448-542cae60-5f3b-4cba-8749-eba31d1d9e25.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/69424250/209710448-542cae60-5f3b-4cba-8749-eba31d1d9e25.png">
 
 
 ## Challenges⚡️
