@@ -51,7 +51,7 @@ Demonstrating caching algorithms
 <br>optimised code</br>
 
 
-<img width="647" alt="image" src="https://user-images.githubusercontent.com/69424250/209696239-e9a42dd2-d2cc-43a2-899e-f30201497027.png">
+<img width="771" alt="image" src="https://user-images.githubusercontent.com/69424250/209698938-1145600a-2925-4767-a936-88e9c7d321b4.png"><img width="647" alt="image" src="https://user-images.githubusercontent.com/69424250/209696239-e9a42dd2-d2cc-43a2-899e-f30201497027.png">
 <img width="968" alt="image" src="https://user-images.githubusercontent.com/69424250/209696363-711f3e68-d8ad-4dbc-962c-97f08797326c.png">
 
 
