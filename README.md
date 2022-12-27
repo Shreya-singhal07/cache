@@ -60,4 +60,10 @@ compiling and running rest cases :)
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/69424250/209710448-542cae60-5f3b-4cba-8749-eba31d1d9e25.png">
 
 
+## Challenges⚡️
+
+- [x]
+- [x]
+- [x]
+- [x]
 
