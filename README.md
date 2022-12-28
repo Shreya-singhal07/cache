@@ -16,10 +16,12 @@ Demonstrating caching algorithms
 
 **eviction policy** : algorithm which determines which element is removed incase my capacity of the cache is exceeded.
 
-## work done
+## learnings
 
-- [x] watch videos
-- [x] ask for requirements
+- [x] cache and it's internal implementation
+- [x] eviction policy and it's application in real life
+- [x] how to come up with optimised version from high time complexity code
+- [x] how classes are imlpemented and it's importance
 
 ## DAY 1
 
@@ -63,8 +65,8 @@ compiling and running rest cases :)
 
 ## Challenges⚡️
 
-- [x] ll
-- [x] ll
-- [x] ll
-- [x] ll
+- [x] making sure current functionality doesn't break while adding new features (solution : testing and different testcases in the following push commands)
+- [x] avoiding repeated code (solution : analyse and create a single function for common feature)
+- [x] 
+- [x] working on time complexity for put function [ O(n) to O(log n) ]
 
