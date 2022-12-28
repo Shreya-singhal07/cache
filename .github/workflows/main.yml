@@ -1,3 +1,5 @@
+# this file will run testcases everything we commit to this repo
+
 name: C/C++ CI
 
 on:                  # tells us when pipeline will work
