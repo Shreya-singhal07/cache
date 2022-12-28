@@ -1,5 +1,6 @@
 # project-work
 Demonstrating caching algorithms
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ## Why
 
