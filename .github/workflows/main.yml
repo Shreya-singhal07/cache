@@ -18,4 +18,4 @@ jobs:               # defining the OS on which we want ur code to run
     - name: checkout repo content    # downloading current repo
       uses: actions/checkout@v2      # checkout the repository content to github ru
     - name: test                     # run test cases, compile and run 
-      run: g++ tests/test_sorting.cpp && ./a.out
+      run: g++ LRUcache.cpp && ./a.out
