@@ -88,6 +88,7 @@ int main()
 	lr.put(7,1);
 	cout << lr.get(-3) << endl;
 	cout << lr.get(7) << endl;
+	assert(1 == lr.get(45));
 	
 	return 0;
 }
