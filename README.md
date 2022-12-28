@@ -1,5 +1,7 @@
 # project-work
 Demonstrating caching algorithms
+<br>
+
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ## Why
@@ -68,6 +70,5 @@ compiling and running rest cases :)
 
 - [x] making sure current functionality doesn't break while adding new features (solution : testing and different testcases in the following push commands)
 - [x] avoiding repeated code (solution : analyse and create a single function for common feature)
-- [x] 
 - [x] working on time complexity for put function [ O(n) to O(log n) ]
 
