@@ -1,0 +1,21 @@
+name: C/C++ CI
+
+on:                  # tells us when pipeline will work
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:               # defining the OS on which we want ur code to run
+  build-unix:
+
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, ubuntu-18.04]
+
+    steps:          
+    - name: checkout repo content    # downloading current repo
+      uses: actions/checkout@v2      # checkout the repository content to github ru
+    - name: test                     # run test cases, compile and run 
+      run: g++ tests/test_sorting.cpp && ./a.out
